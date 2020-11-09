@@ -5,3 +5,87 @@
     font-family: Helvetica, sans-serif;
     font-size: 16px;
 }
+
+.container-section-promo{
+    
+    display: flex;
+    width: 70%;
+    margin: 100px auto;
+    align-items: center;
+
+}
+
+.item-article{
+
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+
+}
+
+.publication{
+    
+  }
+  
+.publication h3 {
+
+    font-family: Verdana, sans-serif;
+    font-size: 40px;
+    line-height: 48px;
+    color: #025157;
+
+}
+  
+.publication > p{
+
+    font-size: 18px;
+    color: #343434;
+    line-height: 2;
+    margin-bottom: 20px;
+
+  }
+  
+.publication > form{
+
+    display: flex;
+
+  }
+  
+.publication > form p{
+
+    color: #025157;
+    margin-right: 18px;
+
+  }
+
+.formulary > p{
+
+      font-family: Tahoma, sans-serif;
+      font-size: 12px;
+
+  }
+
+.formulary button{
+        color: white;
+        background-color: darkblue;
+        padding-left: 14px;
+        padding-right: 14px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        border: 0;
+        border-radius: 5px;
+}
+
+.tutorial-video{
+
+    display: flex;
+    align-items: center;
+
+}
+
+.tutorial-video img{
+
+    width: 120px;
+    margin-top: 10px;
+
+}
