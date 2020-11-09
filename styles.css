@@ -74,4 +74,21 @@
         padding-bottom: 12px;
         border: 0;
         border-radius: 5px;
+<<<<<<< HEAD
+=======
+}
+
+.tutorial-video{
+
+    display: flex;
+    align-items: center;
+
+}
+
+.tutorial-video img{
+
+    width: 120px;
+    margin-top: 10px;
+
+>>>>>>> 7981858b05ea491268005d07058b7369f4386efe
 }
